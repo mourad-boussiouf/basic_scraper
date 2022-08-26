@@ -1,2 +1,2 @@
 # basic_scraper
-web scraping lessgo
+web scraping ciblé grands sites fr
